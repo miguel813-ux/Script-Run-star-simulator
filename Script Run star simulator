@@ -325,4 +325,4 @@ local Tabs = {
 }
 -- parágrafo 
 Tabs.Main:AddParagraph({ Title = "Scripts pro_tysm1", Content = "" })
-Tabs.Main:AddParagraph({ Title = "Hub canal deku_player", Content = "" })
+Tabs.Main:AddParagraph({ Title = "Hub canal deku_player (miguel_indo4)", Content = "" })
