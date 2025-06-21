@@ -320,3 +320,9 @@ local args = {
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Train"):WaitForChild("AddSpeed"):FireServer(unpack(args))
 end
 end }) 
+local Tabs = {
+    Main = Window:AddTab({ Title = "Credits", Icon = "" }),
+}
+-- parágrafo 
+Tabs.Main:AddParagraph({ Title = "Scripts pro_tysm1", Content = "" })
+Tabs.Main:AddParagraph({ Title = "Hub canal deku_player", Content = "" })
