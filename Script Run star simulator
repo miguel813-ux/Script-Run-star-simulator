@@ -321,7 +321,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Train
 end
 end }) 
 local Tabs = {
-    Main = Window:AddTab({ Title = "Credits", Icon = "" }),
+    Main = Window:AddTab({ Title = "Credits", Icon = "user-round" }),
 }
 -- parágrafo 
 Tabs.Main:AddParagraph({ Title = "Scripts pro_tysm1", Content = "" })
