@@ -190,7 +190,7 @@ local args = {
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Train"):WaitForChild("AddSpeed"):FireServer(unpack(args))
 end
 end })
-Tabs.Main:AddButton({ Title = "Auto train treadmill 4", Callback = function()
+Tabs.Main:AddButton({ Title = "Auto train treadmill 5", Callback = function()
 _G.loop = true
 while _G.loop do
 wait()
