@@ -29,7 +29,7 @@ local Tabs = {
 local Options = Fluent.Options
 
 -- parágrafos 
-Tabs.Main:AddParagraph({ Title = "Run star Simulator", Content = "some options in testing " })
+Tabs.Main:AddParagraph({ Title = "Run star Simulator", Content = "you need to have the world unlocked to work " })
 
 --botões 
 Tabs.Main:AddButton({ Title = "Auto win world 1", Callback = function()
